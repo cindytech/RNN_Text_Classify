@@ -9,9 +9,9 @@ This code belongs to the ["implement a RNN for text classification in Tensorflow
 
 #Requirements
 
-Python 2.7
+Python 3.5.2
 
-Tensorflow > 0.11
+Tensorflow > 1.1.0
 
 Numpy
 
